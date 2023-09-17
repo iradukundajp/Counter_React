@@ -1,0 +1,13 @@
+body {
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  background-color: #161a3b;
+  color: whitesmoke;
+}
+
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+
+}

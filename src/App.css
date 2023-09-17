@@ -1,0 +1,18 @@
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: 1000;
+  color: whitesmoke;
+  margin-bottom: 20px;
+  
+}
+
+
+
