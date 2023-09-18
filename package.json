@@ -12,8 +12,8 @@
     "preview": "vite preview",
     "format": "prettier --write ./",
     "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
-    "postdeploy": "echo 'Deployed to GitHub Pages.'"
+    "deploy":"gh-pages -d dist"
+    
   },
   "dependencies": {
     "prettier": "^3.0.3",
